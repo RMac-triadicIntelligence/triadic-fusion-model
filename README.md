@@ -39,7 +39,7 @@ text## Usage
 
 Run the simulation script:
 python triadic_model.py
-textThis will:
+This will:
 - Simulate three scenarios: No interventions, Phase 1 nudge (at t=10), Both phases (nudges at t=10 and t=25).
 - Generate a comprehensive visualization saved as `triadic_gw_analysis.png`.
 - Print final power outputs, late-stage subsystem states, and key insights.
