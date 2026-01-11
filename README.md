@@ -28,7 +28,7 @@ This model draws inspiration from complex systems theory, applying triadic inter
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/triadic-fusion-model.git
+git clone https://github.com/RMac-triadicIntelligence/triadic-fusion-model.git
 cd triadic-fusion-model
 text2. Create a virtual environment (recommended):
 python -m venv venv
