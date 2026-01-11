@@ -1,5 +1,8 @@
 # Triadic Fusion Model: Simulating GW-Scale Fusion Deployment
 
+This model simulates the interdependent evolution of fusion technology subsystems toward gigawatt-scale deployment, incorporating "dwelling" dynamics to capture incoherence traps and synergistic scaling. I've structured it technically, with detailed documentation, modular code, and best practices for reproducibility.
+The repository is designed for researchers, engineers, or developers working on complex systems modeling, fusion energy simulation, or nonlinear dynamics. It uses Python with scientific libraries for ODE integration, visualization, and analysis.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 Attribution required Rusty Williams McMurray
